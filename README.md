@@ -7,10 +7,7 @@ Bengali Natural Language Library contains modules and library for Bengali Langua
 
 - **Requirements**
   - python3
+  - numpy
   - nltk
 
 - **Libraries and Modules**
-
-- **Sentiment Analysis**
-
-- **Question Answering**
