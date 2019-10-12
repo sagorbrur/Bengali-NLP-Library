@@ -9,5 +9,7 @@ Bengali Natural Language Library contains modules and library for Bengali Langua
   - python3
   - numpy
   - nltk
+  - gensim
+  
 
 - **Libraries and Modules**
