@@ -1,3 +1,5 @@
+# wiki dump download link: https://dumps.wikimedia.org/bnwiki/latest/bnwiki-latest-pages-articles.xml.bz2
+
 import bz2
 
 filepath = "bnwiki-latest-pages-articles.xml.bz2"
