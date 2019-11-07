@@ -10,8 +10,7 @@
 * [Bengali Wiki Dump](https://dumps.wikimedia.org/bnwiki/latest/bnwiki-latest-pages-articles.xml.bz2)
 
 # Processing Wiki-Data(python 3)
-
-```python wiki_dump.py bnwiki-latest-pages-articles.xml.bz2 wiki.bn.text```
+Follow [**THIS**](https://github.com/sagorbrur/bn_wikiextractor) repo to process wiki bengali data.
 
 # Training(python 2)
 
