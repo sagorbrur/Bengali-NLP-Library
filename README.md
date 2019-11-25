@@ -4,6 +4,9 @@ Bengali Natural Language Library contains modules and library for Bengali Langua
 
 ```To contribute please send pull request.``` 
 
+## Bengali NLP Toolkit
+[BNLP](https://github.com/sagorbrur/bnlp)
+
 
 - **Requirements**
   - python3
